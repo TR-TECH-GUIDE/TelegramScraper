@@ -1,6 +1,5 @@
 #!/bin/env python3
-# (c) @AbirHasan2005
-# Telegram Group: http://t.me/linux_repo
+# (c) @TR-TECH-GUIDE
 # Please give me credits if you use any codes from here.
 
 
@@ -9,7 +8,7 @@ print ("░█▀█░█▀▄░█▀▄░█▀▀░█▀▄")
 print ("░█▀█░█░█░█░█░█▀▀░█▀▄")
 print ("░▀░▀░▀▀░░▀▀░░▀▀▀░▀░▀")
 print ("")
-print ("      by \033[1;95m@AbirHasan2005")
+print ("      by \033[1;95m@TR-TECH-GUIDE")
 print ("\033[1;92m")
 from telethon.sync import TelegramClient
 from telethon.tl.functions.messages import GetDialogsRequest
